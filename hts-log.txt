@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 Nov 2024 11:59:37 at https://sandeep.rishuadsbyshivank.site/tg/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sandeep.rishuadsbyshivank.site/tg/ -O1 "C:\My Web Sites\jackpot" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:59:51	Error: 	"Not Found" (404) at link https://sandeep.rishuadsbyshivank.site/tg/-negative.svg (from https://sandeep.rishuadsbyshivank.site/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.6)
+11:59:51	Error: 	"Not Found" (404) at link https://sandeep.rishuadsbyshivank.site/tg/OPR/ (from https://sandeep.rishuadsbyshivank.site/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.6)
+11:59:51	Error: 	"Not Found" (404) at link https://sandeep.rishuadsbyshivank.site/tg/window.location.href (from https://sandeep.rishuadsbyshivank.site/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.24.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 39 links scanned, 35 files written (1899535 bytes overall) [1541930 bytes received at 110137 bytes/sec], 685000 bytes transferred using HTTP compression in 29 files, ratio 24%, 7.8 requests per connection
+(3 errors, 0 warnings, 0 messages)
